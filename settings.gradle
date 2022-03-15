@@ -1,0 +1,2 @@
+rootProject.name = "KotlinViewPager2AndIndicators"
+include ':app'
